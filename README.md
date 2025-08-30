@@ -1,4 +1,4 @@
-# Quantum k-NN vs Classical k-NN: A Comparative Study
+# Quantum k-NN: A Comparative Study
 
 A comprehensive performance comparison between quantum and classical k-nearest neighbors algorithms, exploring the current state of quantum machine learning in the NISQ era.
 
